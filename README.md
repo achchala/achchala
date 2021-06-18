@@ -1,6 +1,5 @@
 # Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Here are some ideas to get you started:
 My name is Achchala and I'm an incoming freshman at the University of Waterloo studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a>. I hope to further explore the intersection of business and engineering, and I'm currently learning more about web development! 
 
 <!--
