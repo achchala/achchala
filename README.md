@@ -1,6 +1,4 @@
-# Hey! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Achchala and I'm a freshman at the University of Waterloo studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Honors Management Engineering</a>. I hope to further explore the intersection of business and engineering, and I'm currently learning more about web development! 
+Hey!👋 My name is Achchala and I'm a <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo. I hope to leverage technology to create impactful solutions!
 
 <!--
 **achchala/Achchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
