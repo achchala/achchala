@@ -1,4 +1,4 @@
-Hey!👋 I'm Achchala, a <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo. I'm passionate about leveraging technology to create impactful solutions!
+Hey!👋 I'm Achchala, a <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo. I'm passionate about using technology to create impactful solutions!
 
 <!--
 **achchala/Achchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
