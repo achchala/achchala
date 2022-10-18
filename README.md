@@ -1,4 +1,9 @@
-Hey!👋 I'm Achchala, a <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo. I'm passionate about using technology to create impactful solutions!
+👋 Hi, I'm Achchala!
+=============================
+- 📚 I'm a <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, learning about creating the optimal versions of the systems that humans interact with, and exploring the intersection of people and technology
+- ❤️ I'm passionate about using technology to create impactful solutions!
+- 🚀 I'm currently working on <a href="https://github.com/achchala/stickIt" target="_blank">stickIt - Sticky Note Web App</a>, and learning MERN and full-stack development in the process
+- ✉️ I'd be happy to connect, you can reach me at <a href="mailto:adeepan@uwaterloo.ca">adeepan@uwaterloo.ca</a>
 
 <!--
 **achchala/Achchala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
