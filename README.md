@@ -3,7 +3,7 @@
 I'm a <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, learning about creating optimal versions of the systems that humans interact with, and seeking a Fall 2023 Internship!
 
 - ⚡ I'm passionate about leveraging technology to create impactful solutions!
-- 👩‍💻 Currently a Software Developer Intern @ Loblaw Companies Limited
+- 👩‍💻 Previously a Software Developer Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw Companies Limited</a> and a Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
 - 💬 I'd love to connect, you can reach me on <a href="https://www.linkedin.com/in/achchala/" target="_blank">LinkedIn</a>, or at <a href="mailto:adeepan@uwaterloo.ca">adeepan@uwaterloo.ca</a>
 
 <!--
