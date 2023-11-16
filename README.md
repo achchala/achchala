@@ -1,6 +1,6 @@
 👋 Hi, I'm Achchala!
 =============================
-I'm a rising 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo (studying software and information systems, data analytics, and operations research) and seeking a Summer 2024 internship!
+I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo (studying software and information systems, data analytics, and operations research) and seeking a Summer 2024 internship!
 
 - ⚡ I'm passionate about leveraging technology to create impactful solutions!
 - 👩‍💻 SWE Intern @ <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, previously a Software Developer Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw Companies Limited</a>, and a Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
