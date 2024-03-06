@@ -1,9 +1,9 @@
 👋 Hi, I'm Achchala!
 =============================
-I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo (studying software and information systems, data analytics, project management, and operations research) and seeking a Summer 2024 internship!
+I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo (studying software and information systems, data analytics, project management, and operations research) and seeking a <b>Summer 2024 internship</b>!
 
 - ⚡ I've always been fascinated by how code can be used to optimize our day-to-day lives, and I'm passionate about ethical technology and how innovation can be used to achieve positive results for society! I've been coding for over 5 years and I'm excited by the opportunity to learn continuously.
-- 👩‍💻 SWE Intern @ <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, previously a Software Developer Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw Companies Limited</a>, and a Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
+- 👩‍💻 Previously a SWE Intern @ <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, Software Developer Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw Companies Limited</a>, and a Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
 - 🌎 Currently based in Toronto, Canada
 - 💬 I would love to connect, you can reach me on <a href="https://www.linkedin.com/in/achchala/" target="_blank">LinkedIn</a>, or at <a href="mailto:adeepan@uwaterloo.ca">adeepan@uwaterloo.ca</a>
 
