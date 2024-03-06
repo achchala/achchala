@@ -30,7 +30,7 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-![Achchala's GitHub stats](https://github-readme-stats.vercel.app/api?username=achchala&show_icons=true&theme=transparent)
+![Achchala's GitHub stats](https://github-readme-stats.vercel.app/api?username=achchala&show_icons=true&hide=stars,issues,&theme=transparent)
 
 <!--
 ![Achchala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achchala&layout=compact&theme=transparent)
