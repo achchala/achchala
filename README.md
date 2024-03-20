@@ -5,7 +5,8 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 - ⚡ I've always been fascinated by how code can be used to optimize our day-to-day lives, and I'm passionate about ethical technology and how innovation can be used to achieve positive results for society! I've been coding for over 5 years and I'm excited by the opportunity to learn continuously.
 - 👩‍💻 Previously a SWE Intern @ <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, Software Developer Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw Companies Limited</a>, and a Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
 - 🌎 Currently based in Toronto, Canada
-- 💬 I would love to connect, you can reach me on <a href="https://www.linkedin.com/in/achchala/" target="_blank">LinkedIn</a>, or at <a href="mailto:adeepan@uwaterloo.ca">adeepan@uwaterloo.ca</a>
+- 💬 Connect with me! <a href="https://linkedin.com/in/achchala/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@achchala" /></a> <a href="mailto:adeepan@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="adeepan@uwaterloo.ca"></a>  </h3>
+
 
 ### Skills
 
@@ -30,14 +31,8 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
-
-<p align="left">
-<a href="https://www.linkedin.com/in/achchala" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
-
-
-![Achchala's GitHub stats](https://github-readme-stats.vercel.app/api?username=achchala&show_icons=true&hide=stars,issues,&theme=transparent)
+![Achchala's GitHub stats](https://github-readme-stats.vercel.app/api?username=achchala&show_icons=true&hide=stars,issues,&theme=tokyonight)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achchala&theme=tokyonight" alt="mystreak"/> 
 
 <!--
 ![Achchala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achchala&layout=compact&theme=transparent)
