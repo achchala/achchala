@@ -3,7 +3,7 @@
 I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, studying software and information systems, data analytics, project management, and operations research!
 
 - ⚡ I'm fascinated by how code can be used to enhance our day-to-day lives and I'm passionate about ethical technology and how innovation can be used to achieve positive results for society! I've been coding for over 5 years and I'm always excited to learn more.
-- 👩‍💻 Incoming SWE Intern @ <a href="https://www.microfocus.com/en-us/cyberres/secops/interset" target="_blank">OpenText</a>, previous SWE Intern @ <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, SDE Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw</a>, and Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
+- 👩‍💻 Previous SWE Intern @ <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, SDE Intern @ <a href="https://www.loblaw.ca/" target="_blank">Loblaw</a>, and Product Manager Intern @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
 - 🌎 Currently based in Toronto, Canada
 - 💬 Connect with me! <a href="https://linkedin.com/in/achchala/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@achchala" /></a> <a href="mailto:adeepan@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="adeepan@uwaterloo.ca"></a>  </h3>
 
