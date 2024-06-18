@@ -32,7 +32,8 @@ I'm a 3rd-year <a href="https://uwaterloo.ca/management-sciences/management-engi
 </p>
 
 ![Achchala's GitHub stats](https://github-readme-stats.vercel.app/api?username=achchala&show_icons=true&hide=stars,issues,&theme=radical)  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=achchala&theme=radical" alt="mystreak"/> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achchala&theme=radical" alt="mystreak"/>\
+![](https://komarev.com/ghpvc/?username=achchala&color=fe428e)
 <!--
 ![Achchala's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achchala&layout=compact&theme=transparent)
 
