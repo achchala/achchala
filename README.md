@@ -1,6 +1,6 @@
 👋 Hi, I'm Achchala!
 =============================
-I'm a 4th-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo, studying software and information systems, data analytics, project management, and operations research!
+4th-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo - Graduating April 2026!
 
 - ⚡ I'm passionate about ethical technology and how innovation can be used to achieve positive results for society! I've been coding for over 5 years and I'm always excited to learn more.
 - 👩‍💻 SWE Intern @ <a href="https://www.valencelabs.com/" target="_blank">Valence Labs</a>, powered by <a href="https://www.recursion.com/" target="_blank">Recursion</a>! Previously @ <a href="https://www.microfocus.com/en-us/cyberres/secops/interset" target="_blank">OpenText</a>, <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, <a href="https://www.loblaw.ca/" target="_blank">Loblaw</a>, and <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
