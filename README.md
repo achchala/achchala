@@ -2,10 +2,11 @@
 =============================
 4th-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo - Graduating April 2026!
 
-- ⚡ I'm passionate about ethical technology and how innovation can be used to achieve positive results for society! I've been building products for over 5 years, and am always excited to learn more. My career goals are in the intersection of people and technology.
-- 👩‍💻 Previously a SWE @ <a href="https://www.valencelabs.com/" target="_blank">Valence Labs</a>, powered by <a href="https://www.recursion.com/" target="_blank">Recursion</a>, <a href="https://www.microfocus.com/en-us/cyberres/secops/interset" target="_blank">OpenText</a>, <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, <a href="https://www.loblaw.ca/" target="_blank">Loblaw</a>, and a PM @ <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
+- ⚡ Passionate about ethical technology and how innovation can drive positive impact in society. With 5+ years of experience building products, I’m always eager to keep learning and creating at the intersection of people and technology
+- 🤖 Currently a SWE @ <a href="https://www.randox.com/" target="_blank">Randox Labs</a>, working on medical diagnostic analyzers
+- 👩‍💻 Previously explored both product and SWE through internships at @ <a href="https://www.valencelabs.com/" target="_blank">Valence Labs</a> (powered by <a href="https://www.recursion.com/" target="_blank">Recursion</a>), <a href="https://www.microfocus.com/en-us/cyberres/secops/interset" target="_blank">OpenText</a>, <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, <a href="https://www.loblaw.ca/" target="_blank">Loblaw</a>, and <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
 
-- 🌎 Currently based in Toronto, Canada
+- 🌎 Based in Toronto, Canada
 - 💬 Connect with me! <a href="https://linkedin.com/in/achchala/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@achchala" /></a> <a href="mailto:adeepan@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="adeepan@uwaterloo.ca"></a>  </h3>
 
 
