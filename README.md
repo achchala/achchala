@@ -3,7 +3,7 @@
 4th-year <a href="https://uwaterloo.ca/management-sciences/management-engineering" target="_blank">Management Engineering</a> student at the University of Waterloo - Graduating April 2026!
 
 - ⚡ Passionate about ethical technology and how innovation can drive positive impact in society. With 5+ years of experience building products, I’m always eager to keep learning and creating at the intersection of people and technology
-- 🤖 Currently a SWE intern @ <a href="https://www.randox.com/" target="_blank">Randox Labs</a>, building medical diagnostic analyzers
+- 🤖 Currently a SWE intern @ <a href="https://www.randox.com/" target="_blank">Randox Health</a>, building medical diagnostic analyzers
 - 👩‍💻 Previously explored both product and SWE through internships at @ <a href="https://www.valencelabs.com/" target="_blank">Valence Labs</a> (powered by <a href="https://www.recursion.com/" target="_blank">Recursion</a>), <a href="https://www.microfocus.com/en-us/cyberres/secops/interset" target="_blank">OpenText</a>, <a href="https://pointclickcare.com/" target="_blank">PointClickCare</a>, <a href="https://www.loblaw.ca/" target="_blank">Loblaw</a>, and <a href="https://www.createwithnova.com/" target="_blank">Nova Social Display</a>
 
 - 🌎 Based in Toronto, Canada
