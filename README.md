@@ -8,6 +8,7 @@
 - 🌎 Based in Toronto, Canada
 - 💬 Connect with me! <a href="https://linkedin.com/in/achchala/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="@achchala" /></a> <a href="mailto:adeepan@uwaterloo.ca" target="_blank"> <img align="center" src="https://img.shields.io/badge/email-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="adeepan@uwaterloo.ca"></a>  </h3>
 
+<!--
 
 ### Skills
 
@@ -31,7 +32,7 @@
     <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud Platform" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+-->
 ![Achchala's GitHub stats](https://github-readme-stats.vercel.app/api?username=achchala&show_icons=true&hide=stars,issues,&theme=radical)  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=achchala&theme=radical" alt="mystreak"/>\
 ![](https://komarev.com/ghpvc/?username=achchala&color=fe428e)
